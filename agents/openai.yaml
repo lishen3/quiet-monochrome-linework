@@ -1,0 +1,8 @@
+interface:
+  display_name: "静默黑白线条插画"
+  short_description: "内容优先地设计并质检黑白小猫线条风格小程序 UI"
+  brand_color: "#171717"
+  default_prompt: "Use $quiet-monochrome-linework to choose a content-first mobile layout, implement a coherent black-and-white cat linework system, and visually audit the rendered result at target phone sizes."
+
+policy:
+  allow_implicit_invocation: true
